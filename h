@@ -145,28 +145,28 @@
 
     <section>
         <div>
-            <img class="w-64" src="game1.jpg" alt="Game 1">
+            <img class="w-64" style="max-height: 250px" src="game1.jpg" alt="Game 1">
             <h3>Game 1 Title</h3>
             <p>Description of Game 1.</p>
             <button>Buy Now</button>
         </div>
 
         <div>
-            <img class="w-64" src="game2.jpg" alt="Game 2">
+            <img class="w-64" style="max-height: 250px" src="game2.jpg" alt="Game 2">
             <h3>Game 2 Title</h3>
             <p>Description of Game 2.</p>
             <button>Buy Now</button>
         </div>
 
         <div>
-            <img class="w-64" src="game3.jpg" alt="Game 3">
+            <img class="w-64" style="max-height: 250px" src="game3.jpg" alt="Game 3">
             <h3>Game 3 Title</h3>
             <p>Description of Game 3.</p>
             <button>Buy Now</button>
         </div>
 
         <div>
-            <img class="w-64" src="game4.jpg" alt="Game 4">
+            <img class="w-64" style="max-height: 250px" src="game4.jpg" alt="Game 4">
             <h3>Game 4 Title</h3>
             <p>Description of Game 4.</p>
             <button>Buy Now</button>
@@ -174,28 +174,28 @@
     </section>
     <section>
         <div>
-            <img class="w-64" src="game5.jpg" alt="Game 5">
+            <img class="w-64" style="max-height: 250px" src="game5.jpg" alt="Game 5">
             <h3>Game 5 Title</h3>
             <p>Description of Game 5.</p>
             <button>Buy Now</button>
         </div>
 
         <div>
-            <img class="w-64" src="game6.jpg" alt="Game 6">
+            <img class="w-64" style="max-height: 250px" src="game6.jpg" alt="Game 6">
             <h3>Game 6 Title</h3>
             <p>Description of Game 6.</p>
             <button>Buy Now</button>
         </div>
 
         <div>
-            <img class="w-64" src="game7.jpg" alt="Game 7">
+            <img class="w-64" style="max-height: 250px" src="game7.jpg" alt="Game 7">
             <h3>Game 7 Title</h3>
             <p>Description of Game 7.</p>
             <button>Buy Now</button>
         </div>
 
         <div>
-            <img class="w-64" src="game8.jpg" alt="Game 8">
+            <img class="w-64" style="max-height: 250px" src="game8.jpg" alt="Game 8">
             <h3>Game 8 Title</h3>
             <p>Description of Game 8.</p>
             <button>Buy Now</button>
@@ -216,16 +216,16 @@
 
     <div class="flex flex-row" style="border: none; background-color: transparent; margin-bottom: 40px;">
     <div class="w-1/3"> 
-    <img style="width: 100%;" src="sale.jpg" alt="Sales"> 
-    <h1 class="text-3xl font-bold"> Sales </h1>
+    <img style="width: 100%; height: 85%;" src="sale.jpg" alt="Sales"> 
+    <h1 class="font-bold"> Sales </h1>
     </div>
     <div class="w-1/3">  
-    <img style="width: 100%;" src="free.jpg" alt="Free"> 
-    <h1 class="text-3xl font-bold"> Free Games </h1>
+    <img style="width: 100%; height: 85%;" src="free.jpg" alt="Free"> 
+    <h1 class="font-bold"> Free </h1>
     </div>
     <div class="w-1/3">
-    <img style="width: 100%;" src="apps.jpg" alt="Apps">   
-    <h1 class="text-3xl font-bold"> Apps </h1>
+    <img style="width: 100%; height: 85%;" src="apps.jpg" alt="Apps">   
+    <h1 class="font-bold"> Apps </h1>
     </div>  
     </div>
 
