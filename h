@@ -134,7 +134,7 @@
         </div>
     </header>
 
-    <div class="header-buttons">
+    <div class="header-buttons" style="flex-wrap: nowrap; overflow-x: auto;">
     <div class="search-bar">
                 <input type="text" placeholder="Search...">
             </div>
@@ -214,21 +214,25 @@
     </div>     
     </div>
 
-    <div class="flex flex-row" style="border: none; background-color: transparent; margin-bottom: 40px;">
-    <div class="w-1/3"> 
-    <img style="width: 100%; height: 85%;" src="sale.jpg" alt="Sales"> 
+    <section>
+    <div class="flex flex-row" style="border: none; background-color: transparent; margin-bottom: 20px;">
+    <div class="w-1/3" style="border: none; background-color: transparent;"> 
+    <img style="width: 100%; height: 75%;" src="sale.jpg" alt="Sales"> 
     <h1 class="font-bold"> Sales </h1>
+    <p> Description </p>
     </div>
-    <div class="w-1/3">  
-    <img style="width: 100%; height: 85%;" src="free.jpg" alt="Free"> 
+    <div class="w-1/3" style="border: none; background-color: transparent;">  
+    <img style="width: 100%; height: 75%;" src="free.jpg" alt="Free"> 
     <h1 class="font-bold"> Free </h1>
+    <p> Description </p>
     </div>
-    <div class="w-1/3">
-    <img style="width: 100%; height: 85%;" src="apps.jpg" alt="Apps">   
+    <div class="w-1/3" style="border: none; background-color: transparent;">
+    <img style="width: 100%; height: 75%;" src="apps.jpg" alt="Apps">   
     <h1 class="font-bold"> Apps </h1>
+    <p> Description </p>
     </div>  
     </div>
-
+    </section>
 
     <footer>
         <p>&copy; 2023 Your Game Store. All rights reserved.</p>
